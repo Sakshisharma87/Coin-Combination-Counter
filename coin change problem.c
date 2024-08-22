@@ -18,6 +18,7 @@ int main() {
     printf("Enter the no. of coins\n");
     scanf("%d",&n);
     int a[100];
+   printf("Enter values of coins:-\n");
     for( i=0;i<n;i++){
         scanf("%d",&a[i]);
     }
